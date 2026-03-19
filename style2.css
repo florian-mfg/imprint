@@ -11,7 +11,8 @@ body {
 /* Custom mono font */
 @font-face {
   font-family: "ABCDiatypeMono";
-  src: url("fonts/ABCDiatypeMonoEdu-Regular.woff") format("woff"),
+  src: url("fonts/ABCDiatypeMono-Regular.woff2") format("woff2"),
+       url("fonts/ABCDiatypeMono-Regular.woff") format("woff"),
        url("fonts/ABCDiatypeMonoEdu-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
